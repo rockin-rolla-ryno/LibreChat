@@ -135,7 +135,8 @@
       "micromark-extension-math": {
         "katex": "^0.16.21"
       }
-    }
+    },
+    "protobufjs": "7.5.5"
   },
   "nodemonConfig": {
     "ignore": [
